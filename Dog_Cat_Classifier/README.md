@@ -1,1 +1,1 @@
-![Screenshot](Arsathkhan71/machine_learning/Dog_Cat_Classifier/OUTPUT.png)
+![Screenshot](OUTPUT.png)
